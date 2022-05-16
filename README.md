@@ -6,6 +6,6 @@ Criei este projeto com a intenção de obter um portfolio.
   
 
 ## Landing Page
-Desenvolvi a Landing Page separando o container em div's.
+Desenvolvi a Landing Page separando o container em divs.
 
 <img src=""/>
