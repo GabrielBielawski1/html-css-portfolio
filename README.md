@@ -8,4 +8,4 @@ Criei este projeto com a intenção de obter um portfolio.
 ## Landing Page
 Desenvolvi a Landing Page separando o container em divs.
 
-<img src=""/>
+<img src="https://github.com/GabrielBielawski1/estudo-html/blob/main/img/Captura%20de%20tela%202022-05-16%20204105.png?raw=true"/>
